@@ -22,6 +22,6 @@ For testing my code you should pass the file address and number of clusters you 
 
 Please install `OpenCV` and `Numpy` before using to prevent dependency errors.
 
-I would appreciate any pull request of comment on my work.
+I would appreciate any pull request or comment on my work.
 
 Thank you

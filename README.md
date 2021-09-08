@@ -1,7 +1,7 @@
 ## Acute Lymphoblastic Leukemia Image Segmentation using Memetic Algorithm 
 
 This project is inspired by [Acute lymphoblastic leukemia image segmentation driven by stochastic fractal search](https://link.springer.com/article/10.1007/s11042-019-08417-z) 
-paper which introduce a new method for image segmentation with metaheuristic search methods.
+paper which introduces a new method for image segmentation with metaheuristic search methods.
 
 Also I used [ALL_IDB2](https://homes.di.unimi.it/scotti/all/) dataset for this project. (Thanks to Prof. Scotti)
 
